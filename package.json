@@ -1,0 +1,25 @@
+{
+  "name": "cumberbatch-generator",
+  "version": "0.1.0",
+  "description": "Random Benedict Cumberbatch malapropism name generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jorundur/cumberbatch-generator.git"
+  },
+  "keywords": [
+    "random",
+    "name",
+    "generator",
+    "cumberbatch"
+  ],
+  "author": "Jörundur Jörundsson <jorundurj@gmail.com> (https://github.com/jorundur)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jorundur/cumberbatch-generator/issues"
+  },
+  "homepage": "https://github.com/Jorundur/cumberbatch-generator#readme"
+}
